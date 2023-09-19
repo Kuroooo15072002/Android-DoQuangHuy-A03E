@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074950806746",
+    "project_id": "login-f2ccb",
+    "storage_bucket": "login-f2ccb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074950806746:android:b6980a076b7dbb24f319e3",
+        "android_client_info": {
+          "package_name": "com.uef.login_page"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPzseBMKgJpqKDUHsbNhQ9iObXv1pP7DA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
